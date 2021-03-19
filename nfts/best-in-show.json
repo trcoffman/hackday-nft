@@ -1,0 +1,9 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Award",
+      "value" : "Best in Show"
+    } ],
+    "description" : "Best in Show at AppFolio's Hackchella",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmeswCSwSYpve8VtBYS2wCZgvVPcPKjYXM7whQvG28ecVb",
+    "name" : "Best in Show"
+}

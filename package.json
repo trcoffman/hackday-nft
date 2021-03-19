@@ -1,0 +1,21 @@
+{
+  "name": "hackday-nft",
+  "version": "1.0.0",
+  "description": "HackDay prizes as NFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Coffman",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.0.32",
+    "hardhat": "^2.1.1"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.0.0",
+    "@openzeppelin/contracts": "^3.4.1",
+    "dotenv": "^8.2.0"
+  }
+}
